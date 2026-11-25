@@ -1,0 +1,8 @@
+{
+  "name": "mavr-hr-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mavr HR bot (@Mavr_HR_bot) — vakansiya arizalarini CRM ga uzatadi",
+  "engines": { "node": ">=20" },
+  "scripts": { "dev": "node bot.js", "start": "node bot.js" }
+}
